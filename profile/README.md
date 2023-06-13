@@ -20,7 +20,8 @@
 
 ### Studying 
 
-- 모던 자바스크립트 Deep Dive 스터디 (2023.05~ )
+- [모던 자바스크립트 Deep Dive 스터디 (2023.05~ )](https://github.com/Jellies-Study/Modern-JS)
+- [쏙쏙 들어오는 함수형 코딩 책 스터디 (2023.04~ )](https://github.com/Jellies-Study/Grokking-Simplicity)
 
 ### Members
 
