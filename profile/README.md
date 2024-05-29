@@ -25,7 +25,7 @@
 
 ### Members
 
-- <a href='https://github.com/goatFE' target='_blank'>황희정 (@goatFE) </a>
+- <a href='https://github.com/hjstep' target='_blank'>황희정 (@hjstep) </a>
 - <a href='https://github.com/hhyanghh' target='_blank'>양현화 (@hhyanghh) </a>
 - <a href='https://github.com/ujkey' target='_blank'>류재경 (@ujkey) </a>
 - <a href='https://github.com/boyeonJ' target='_blank'>정보연 (@boyeonJ) </a>
